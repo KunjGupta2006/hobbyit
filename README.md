@@ -20,13 +20,34 @@
 HobbyIt is a modern web application designed to help users connect with their passions. It provides a platform where individuals can explore various hobbies, organize their own interests, and share their experiences with a community. Built with a robust frontend stack and serverless backend, HobbyIt offers a smooth and engaging user experience for hobbyists of all kinds.
 
 ## 🖥️ Screenshots
-<img width="512" height="324" alt="unnamed" src="https://github.com/user-attachments/assets/2ba35c15-c122-44da-a0fa-cb35e5caf0b7" />
-![83a9717b-adce-4fda-8709-74d548b127e9](https://github.com/user-attachments/assets/4569a770-a760-4376-b8d1-99e748da2119)
-![99aad724-ff00-4c55-8ff2-6ecb71d369d1](https://github.com/user-attachments/assets/5cbd3bda-b1c4-4162-b592-13375a15bdfa)
-![29556dcc-7b30-4208-96a2-475ac0d4db7c](https://github.com/user-attachments/assets/2417e53f-038b-427a-8221-1ce98d50784b)
-![933aa632-81c5-4fcc-8eec-2709d23f7348](https://github.com/user-attachments/assets/e087292e-52d6-46e6-88dc-9261ad019f3e)
-![19028b1e-d97d-4db8-9324-01ea0e760d69](https://github.com/user-attachments/assets/73a7ed74-39c1-494d-8ab4-b979227c3f12)
 
+### 📱 Dashboard Overview
+<p align="center">
+  <img width="800" alt="Hobbyit Main Dashboard" src="https://github.com/user-attachments/assets/2ba35c15-c122-44da-a0fa-cb35e5caf0b7" />
+</p>
+
+### 🔍 Feature Breakdown
+
+| 📈 Efficiency & Analytics | 🗓️ Weekly Habit Matrix |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/73a7ed74-39c1-494d-8ab4-b979227c3f12" width="400" alt="Efficiency Card" /> | <img src="https://github.com/user-attachments/assets/2417e53f-038b-427a-8221-1ce98d50784b" width="400" alt="Habit Tracker" /> |
+| *Real-time productivity tracking* | *Interactive 7-day streak management* |
+
+| 📝 Task Management | 🎨 UI Components |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/e087292e-52d6-46e6-88dc-9261ad019f3e" width="400" alt="Task Interface" /> | <img src="https://github.com/user-attachments/assets/4569a770-a760-4376-b8d1-99e748da2119" width="400" alt="UI View" /> |
+| *Categorized daily objectives* | *Modern Soft-UI design system* |
+
+### 📂 Additional Previews
+<details>
+  <summary>View More App States</summary>
+  <br />
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/5cbd3bda-b1c4-4162-b592-13375a15bdfa" width="600" alt="Progress View" />
+    <br />
+    <img src="https://github.com/user-attachments/assets/73a7ed74-39c1-494d-8ab4-b979227c3f12" width="600" alt="Detail View" />
+  </p>
+</details>
 ## 🛠️ Tech Stack
 
 **Frontend:**
