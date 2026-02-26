@@ -3,10 +3,10 @@ import  { useEffect, useState } from 'react'
 const Quote = () => {
 
     const [quote,setQuote]=useState({q:"",author:""});
-    
+    const API_URL=import.meta.env.VITE_APP_API_URL;
     useEffect(()=>{
         const getquote=async()=>{
-            const res=await fetch("https://motivational-spark-api.vercel.app/api/quotes/random");
+            const res=await fetch(API_URL);
             const result=await res.json();
             setQuote({
                 q:result.quote,
