@@ -1,14 +1,13 @@
-```markdown
 # 🚀 HobbyIt
 
 <div align="center">
 
-![Project Logo](https://img.shields.io/badge/HobbyIt-App-blueviolet?style=for-the-badge&logo=react) <!-- TODO: Add an actual project logo here -->
+![Project Logo](https://img.shields.io/badge/HobbyIt-App-blueviolet?style=for-the-badge&logo=react)
 
 [![GitHub stars](https://img.shields.io/github/stars/KunjGupta2006/hobbyit?style=for-the-badge)](https://github.com/KunjGupta2006/hobbyit/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KunjGupta2006/hobbyit?style=for-the-badge)](https://github.com/KunjGupta2006/hobbyit/network)
 [![GitHub issues](https://img.shields.io/github/issues/KunjGupta2006/hobbyit?style=for-the-badge)](https://github.com/KunjGupta2006/hobbyit/issues)
-[![GitHub license](https://img.shields.io/github/license/KunjGupta2006/hobbyit?style=for-the-badge)](LICENSE) <!-- TODO: Add a LICENSE file with chosen license -->
+[![GitHub license](https://img.shields.io/github/license/KunjGupta2006/hobbyit?style=for-the-badge)](LICENSE)
 
 **A dynamic web application for discovering, managing, and sharing your passions.**
 
@@ -41,32 +40,31 @@ HobbyIt is a modern web application designed to help users connect with their pa
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
--   **Node.js**: v18.x or higher (recommended for Vite/React development)
--   **npm**: v6.x or higher (comes with Node.js)
+- **Node.js**: v18.x or higher (recommended for Vite/React development)
+- **npm**: v6.x or higher (comes with Node.js)
 
 ### Installation
 
-1.  **Clone the repository**
+1. **Clone the repository**
     ```bash
-    git clone https://github.com/KunjGupta2006/hobbyit.git
+    git clone [https://github.com/KunjGupta2006/hobbyit.git](https://github.com/KunjGupta2006/hobbyit.git)
     cd hobbyit
     ```
 
-2.  **Install dependencies**
+2. **Install dependencies**
     ```bash
     npm install
     ```
 
-3.  **Environment setup**
+3. **Environment setup**
+    - Create a `.env` file in the root directory of the project based on the `.env` example.
 
-    -   Create a `.env` file in the root directory of the project based on the `.env` example.
-
-4.  **Start development server**
+4. **Start development server**
     ```bash
     npm run dev
     ```
 
-5.  **Open your browser**
+5. **Open your browser**
     Visit `http://localhost:5173` (or the port indicated by Vite in your console) to see the application running.
 
 ## 📁 Project Structure
