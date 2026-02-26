@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* If you want to add the custom category colors globally */
+@theme {
+  --color-work: #3b82f6;
+  --color-study: #a855f7;
+  --color-personal: #22c55e;
+  --color-urgent: #ef4444;
+}
